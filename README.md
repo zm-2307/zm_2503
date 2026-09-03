@@ -104,19 +104,7 @@ Where $A_a = D_a^T D_a + I_d$ acts as the design covariance matrix for arm $a$.
 
 ---
 
-## 3. Platform Architectural Comparisons
-
-| Dimension | TikTok (Split Test) | YouTube Studio (Test & Compare) |
-| :--- | :--- | :--- |
-| **Statistical Engine** | Frequentist $Z$/$t$-Testing | Bayesian Posterior Estimation |
-| **Core Metric Target** | Conversion Efficiency (CPA, ROAS) | Total Watch Time per Impression |
-| **Allocation Mechanism** | Balanced Split ($50/50$ or fixed slices) | Even Split across $2\text{--}3$ assets |
-| **Bias Mitigation** | Pre-test audience isolation | Anti-clickbait objective weighting |
-| **Stopping Condition** | Budget/Time exhaustion ($7\text{--}14$ days) | Posterior threshold / max 14 days |
-
----
-
-## 4. References & Key Dissertations
+## 3. References & Key Dissertations
 
 1. **Walsh, D. J. M. (2019).** *How to Design and Analyze Online A/B Tests Within Decentralized Organizations*. Ph.D. Dissertation, Department of Statistics, Stanford University.
 2. **Miller, A. P. (2022).** *Essays on the Use of A/B Testing Among E-Commerce Practitioners*. Ph.D. Dissertation, Wharton School, University of Pennsylvania.
