@@ -1,4 +1,3 @@
-# zm_2503
 Comparison of classical vs. modern A/B testing algorithms
 
 # Comparative Methodology: Classical vs. Modern A/B Testing Algorithms
