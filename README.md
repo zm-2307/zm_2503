@@ -108,4 +108,4 @@ Where $A_a = D_a^T D_a + I_d$ acts as the design covariance matrix for arm $a$.
 3. **Kuusisto, N. (2023).** *Experimentation Process and Experiment Design in A/B Testing Teams*. Master's Thesis, School of Science, Aalto University.
 
 
-## This research was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIT) (NO. RS-2022-NR068754)
+__This research was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIT) (NO. RS-2022-NR068754)__
